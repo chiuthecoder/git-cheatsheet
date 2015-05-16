@@ -6,3 +6,9 @@ git commit -m "add message here"
 git remote add origin git@github.com:chiuthecoder/php-advanced-counter.git
 
 git push -u origin master
+
+git push
+
+git branch
+git git branch <new-branch>
+git checkout <new-branch>
