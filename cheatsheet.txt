@@ -12,3 +12,6 @@ git push
 git branch
 git git branch <new-branch>
 git checkout <new-branch>
+
+
+git rm --cached .DS_Store
